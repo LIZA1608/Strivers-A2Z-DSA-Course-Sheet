@@ -1,3 +1,4 @@
+
 int findMin(vector<int>& arr)
 {
 	// Write your code here.
